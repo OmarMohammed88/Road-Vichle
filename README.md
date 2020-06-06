@@ -1,7 +1,7 @@
-# Road-Vichle--SW1
+# Road-Vehicle--SW1
 # Web Development - PHP 
 
-<h1>This Project  about Road vichle  we have 3 Actors Admin - Mechanic- users </h1>
+<h1>This Project  about Road Vehicle  we have 3 Actors Admin - Mechanic- users </h1>
 
 <h5>Each of Mechanic and User can register and login ..<br> once they Register They have Revieeved an Email of confirmation<br>
 the Admin can login and View Mechanic and User And Delete them from System ..<br>the  mechanic can Send his feedback and View requests from user and accept Or Decline them <br>
